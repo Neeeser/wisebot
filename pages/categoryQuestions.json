@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Volumes",
+        "questions": [
+            "how were the changes in the volumes for CSX in 2023",
+            "how did the volumes change in 2022 vs 2023. Present this analysis in a tabular format"
+        ]
+    },
+    {
+        "name": "Pricing",
+        "questions": [
+            "how were the changes in the pricing for CSX in 2023",
+            "how did the pricing change in 2023 vs 2021. Present this analysis in a tabular format"
+        ]
+    },
+    {
+        "name": "Revenue",
+        "questions": [
+            "how were the changes in the revenue for CSX in Q1 2023",
+            "what were the underlying drivers for the change in revenue for Q1 2023"
+        ]
+    },
+    {
+        "name": "Margins",
+        "questions": [
+            "what were the drivers for the changes in net profit in Q1 2023",
+            "is CSX operating ratio good or bad in Q1 2023"
+        ]
+    },
+    {
+        "name": "EBITDA",
+        "questions": [
+            "how were the changes in the EBITDA for CSX in Q1 2023"
+        ]
+    },
+    {
+        "name": "Operating Income",
+        "questions": [
+            "how were the changes in the operating income for CSX in Q1 2023",
+            "what were the underlying drivers for the change in operating income for Q1 2023"
+        ]
+    },
+    {
+        "name": "Net earnings",
+        "questions": [
+            "how were the changes in the net earnings for CSX in Q1 2023",
+            "what were the underlying drivers for the change in net earnings for Q1 2023"
+        ]
+    },
+    {
+        "name": "Balance Sheet - Liquidity",
+        "questions": [
+            "what was the liquidity position for CSX in Q1 2023",
+            "was there a change in the liquidity position for CSX in Q1 2023"
+        ]
+    },
+    {
+        "name": "Balance Sheet - Leverage Levels",
+        "questions": [
+            "what was the difference in total debt in CSX from Q4 2022 to Q1 2023?"
+        ]
+    },
+    {
+        "name": "Share repurchases",
+        "questions": [
+            "were there share purchases for CSX in Q1 2023?",
+            "were there share purchases for CSX in 2022?"
+        ]
+    },
+    {
+        "name": "Mergers & Acquisitions",
+        "questions": [
+            "Did CSX do any M&A in Q1 2023? ",
+            "Did CSX do any M&A in Q1 2023, 2022, 2021, 2020 or 2019?",
+            "can you tell me more about the merger with Pan AM systems in 2022?",
+            "please tell me more about In 2021, CSX acquired Quality Carriers, Inc. for a purchase price of $544 million in cash?"
+        ]
+    },
+    {
+        "name": "Risk",
+        "questions": [
+            "Did CSX ever misstate their financials disclosures",
+            "did CSX writedown their assets",
+            "did CSX impair goodwill recently",
+            "how is the corporate goverence of CSX"
+        ]
+    },
+    {
+        "name": "Opportunities",
+        "questions": [
+            "what are the biggest opportunities for CSX to grow revenues in 2023",
+            "In which areas did CSX not perform well in Q1 2023",
+            "how can CSX improve its performance in 2023",
+            "are analysts asking negative or positive questions to CSX company management in 2023",
+            "What is the tone of the managment in the Q1 2023 earnings call, what issues is the management stressing on"
+        ]
+    },
+    {
+        "name": "Competitor",
+        "questions": [
+            "compare operations of CSX to Union pacific",
+            "how were the changes in the volumes for Union Pacific in 2022",
+            "Comment on financial performance of union pacific in 2021 vs 2022",
+            "Comment on financial performance of CSX in 2021 vs 2022",
+            "Comment on financial performance of CSX vs Union Pacific in 2021 vs 2022",
+            "Comment on financial performance of CSX vs Union Pacific in 2021 vs 2022. Show results in a tabular format"
+        ]
+    }
+]
