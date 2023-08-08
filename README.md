@@ -1,3 +1,8 @@
+# Winning Project for John Hancock 2023 Boston Hacakthon
+forked from 
+https://github.com/AliceNN-ucdenver/gpt4-pdf-chatbot-langchain
+Wisebot summarizes important finicial documents
+
 # GPT-4 & LangChain - Create a ChatGPT Chatbot for Your PDF Files
 
 Use the new GPT-4 api to build a chatGPT chatbot for multiple Large PDF files.
